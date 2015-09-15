@@ -1,0 +1,31 @@
+{
+  "name": "thirdparty-analyzer",
+  "version": "1.0.0",
+  "description": "Collect thirdparty information from HAR data",
+  "main": "index.js",
+  "dependencies": {
+    "calmcard": "^0.1.1",
+    "chai": "^3.2.0",
+    "party-pooper": "https://github.com/JeroenVdb/party-pooper/archive/1.7.0.tar.gz",
+    "prettysize": "^0.0.3",
+    "promise": "^7.0.4",
+    "valid-url": "^1.0.9",
+    "winston": "^1.0.0"
+  },
+  "scripts": {
+    "test": "mocha test/analyze.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:JeroenVdb/thirdparty-analyzer.git"
+  },
+  "keywords": [
+    "performance"
+  ],
+  "author": "Jeroen Van den Berghe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeroenVdb/thirdparty-analyzer/issues"
+  },
+  "homepage": "https://github.com/JeroenVdb/thirdparty-analyzer"
+}

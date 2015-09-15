@@ -1,0 +1,13 @@
+{"level":"verbose","message":"The root first party entry is: http://www.demorgen.be/","timestamp":"2015-09-15T14:59:49.447Z"}
+{"level":"verbose","message":"The root first party entry is: http://www.demorgen.be/","timestamp":"2015-09-15T14:59:49.449Z"}
+{"level":"verbose","message":"----- START ANALYZING URLS ------","timestamp":"2015-09-15T14:59:49.449Z"}
+{"level":"verbose","message":"checkFirstParty, compare to: http://www.demorgen.be/","timestamp":"2015-09-15T14:59:49.449Z"}
+{"level":"verbose","message":"FOUND ONE: FIRSTPARTY","timestamp":"2015-09-15T14:59:49.449Z"}
+{"level":"verbose","message":"This is a first party url","timestamp":"2015-09-15T14:59:49.450Z"}
+{"level":"verbose","message":"checkFirstParty, compare to: http://www.demorgen.be/","timestamp":"2015-09-15T14:59:49.450Z"}
+{"level":"verbose","message":"This is NOT a first party url","timestamp":"2015-09-15T14:59:49.450Z"}
+{"level":"verbose","message":"The root first party entry is: http://www.demorgen.be/","timestamp":"2015-09-15T15:11:45.652Z"}
+{"level":"verbose","message":"The root first party entry is: http://www.demorgen.be/","timestamp":"2015-09-15T15:11:45.654Z"}
+{"level":"verbose","message":"----- START ANALYZING URLS ------","timestamp":"2015-09-15T15:11:45.654Z"}
+{"level":"verbose","message":"checkFirstParty, compare to: http://www.demorgen.be/","timestamp":"2015-09-15T15:11:45.654Z"}
+{"level":"verbose","message":"FOUND ONE: FIRSTPARTY","timestamp":"2015-09-15T15:11:45.655Z"}
